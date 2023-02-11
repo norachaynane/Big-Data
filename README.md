@@ -4,11 +4,17 @@ Created by Nora Chaynane
 
 
 Project steps
+
 Step 1. Download a dataset (.csv file) from the site
+
 https://vincentarelbundock.github.io/Rdatasets/datasets.html
+
 For example mtcars.csv
+
 Step 2. Select a categorical variable and a numeric variable and form the key-value pair and
+
 create a pairRDD called “population”.
+
 For example cyl (short for cylinder) can be the categorical variable since there are only
 three distinct values: 4, 6 and 8. The mpg (miles per gallon) can be the numerical variable.
 So in this step you will create a pairRDD with key cyl and value mpg.
