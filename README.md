@@ -1,4 +1,4 @@
-# Spark Project
+# Spark / Scala Project
 
 Created by Nora Chaynane
 
